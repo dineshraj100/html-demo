@@ -1,0 +1,52 @@
+#Last{
+    margin-left: 50px;
+}
+#first{
+    margin-right: 20px;
+}
+span{
+    margin-left: 180px;
+}
+#exp{
+ margin: 15px 0px;
+}
+.required::after {
+    content:" *";
+    color: red;
+  }
+  .ratings {
+    margin-right: 10px;
+}
+
+.ratings i {
+    color: #cecece;
+    font-size: 24px;
+}
+
+.rating-color {
+    color: #fbc634 !important ;
+}
+#ash1{
+    margin-top: 10px;
+    background-color: rgba(241,241,241,255);
+    border-radius: 5px;
+}
+#light1{
+    margin-top: 10px;
+    border-radius: 5px;
+}
+#sec-head{
+    margin-top: 10px;
+}
+#box{
+    height: 100px;
+    width: 1125px;
+}
+.checkbox{
+   margin-left: 30px;
+}
+#light2{
+    margin-top: 10px;
+    border-radius: 5px;
+    margin-left: 1px;
+}
